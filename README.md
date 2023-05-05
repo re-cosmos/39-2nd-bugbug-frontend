@@ -3,7 +3,6 @@
 https://user-images.githubusercontent.com/98885221/206911710-62e981a8-c7f0-4b42-9199-7a2dae33c1ee.mp4
 
 
----
 ## 프로젝트 취지 및 소개
 * 개발 기간 : 2022.11.28~ 12.09
 * 프로젝트 사이트 : 텀블벅
@@ -24,7 +23,6 @@ https://user-images.githubusercontent.com/98885221/206911710-62e981a8-c7f0-4b42-
   [김세호](https://github.com/hosose)<br>
   [서재선](https://github.com/IgnacioSEO)<br>
 
----
 
 ### 적용 기술
 
